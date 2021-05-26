@@ -1,0 +1,144 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+#hero .content{
+  padding-top: 170px;
+}
+.content h2 {
+  margin-top: 100px;
+  margin: 0;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #45505b;
+}
+#hero p {
+  color: #45505b;
+ 
+  font-size: 26px;
+  font-family: "Poppins", sans-serif;
+  color: #45505b;
+  margin: 15px 0 0 0;
+  font-size: 26px;
+
+}
+#hero .content .content-icon{
+  margin-top: 40px;
+
+}
+#hero .content .content-icon a{
+  font-size: 24px;
+    display: inline-block;
+    color: #45505b;
+    line-height: 1;
+    margin-right: 20px;
+    transition: 0.3s;
+}
+#hero .img-content{
+  margin-top: 100px;
+
+}
+#hero .img-content img{
+  width: 100%;
+}
+.about ,.skills ,.Projects ,.lang {
+margin-top: 100px;
+}
+.about h2 ,.skills h2 ,.Projects h2,.lang h2  {
+ font-size: 32px;
+ font-weight: bold;
+ text-transform: uppercase;
+ position: relative;
+ color: #45505b;
+}
+.about p{
+  margin: 20px 80px 40px 80px;
+}
+.about-content{
+  margin-top: 60px;
+}
+
+.img-about img{
+width: 80%;
+}
+
+.details a{
+  font-size: 25px;
+  color:#45505b ;
+  padding-top: 60px;
+
+}
+.details-icon{
+  margin: 10px 0px 20px 0px;
+}
+.details i{
+  font-size: 16px;
+  margin-right: 5px;
+  color:#45505b ;
+  line-height: 0;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  font-size: 22px;
+
+ 
+
+}
+.details span{
+  font-size: 20px;
+  color: #272829;
+
+
+}
+.details a:hover{
+  text-decoration: none;
+
+}
+.skills-content{
+  margin-top: 50px;
+}
+.skills-content h4{
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+.progress{
+  margin-bottom: 30px;
+}
+.Projects-content{
+  margin-top: 60px;
+  margin-top: 60px;
+}
+.Projects-content h4{
+margin-bottom: 20px;
+  color:#45505b ;
+}
+.Projects-content  a{
+  color:#45505b ;
+  
+
+}
+.Projects-content img{
+  width: 30%;
+  margin-bottom: 20px;
+}
+.lang {
+  padding-bottom: 60px;
+}
+.lang-content{
+  margin-top: 60px;
+}
+.lang-content img{
+  width:16%;
+}
+.lang-content span{
+  color:#45505b ;
+}
+
